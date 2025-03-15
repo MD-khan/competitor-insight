@@ -1,0 +1,1 @@
+# CompetitorInsight - Competitor Research Platform
